@@ -1,0 +1,24 @@
+.mainPageWrapper{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.addButton{
+    padding-bottom: 20px;
+}
+.headerWrapper{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0E0D16;
+}
+
+.headerWrapper p {
+    padding-left: 150px;
+    color: #ffffff;
+}
+
+.headerWrapper button {
+    margin-right: 20px;
+}
